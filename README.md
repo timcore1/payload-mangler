@@ -1,5 +1,8 @@
 # payload-mangler
 
+<img width="1280" height="640" alt="payload-mangler-banner" src="https://github.com/user-attachments/assets/53d317ea-06d2-4b4c-bea7-ad1251006cd0" />
+
+
 CLI-утилита на Python 3 для мутации security-payload'ов (SQLi / XSS) и проверки
 того, как на них реагирует фильтр локального лабораторного стенда: WAF, валидатор,
 самописная проверка ввода.
