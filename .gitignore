@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+battle.json
+out.json
+*.log
